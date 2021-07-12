@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = iq.mag@outlook.it
+	name = Magdalena Vera
